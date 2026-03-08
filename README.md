@@ -198,5 +198,7 @@ SecureGuard AI learns from patterns rather than rules — making it adaptive. Th
 ## 👩‍💻 Author
 
 **Rachel Mariam Koshy**
-This is a proof-of-concept project built for learning purposes. Not intended for production use without further security hardening.
+
+This is a proof-of-concept project built for learning purposes. 
+
 
